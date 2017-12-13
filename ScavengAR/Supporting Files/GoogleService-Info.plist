@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>211529577146-of1jrej0phsdii3hvfjc3mj4vnq2gqu7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211529577146-of1jrej0phsdii3hvfjc3mj4vnq2gqu7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjKVhWagvLt-L0dqycEoS9uy6T-6W8Gu0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211529577146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>laurenchampeau.ScavengAR</string>
+	<key>PROJECT_ID</key>
+	<string>scavengar-6d8de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scavengar-6d8de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211529577146:ios:dc7dfa178fd204de</string>
+	<key>DATABASE_URL</key>
+	<string>https://scavengar-6d8de.firebaseio.com</string>
+</dict>
+</plist>
